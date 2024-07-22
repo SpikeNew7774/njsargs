@@ -38,4 +38,3 @@ console.log("Parsed Arguments", parsedArgs);
 */
 ```
 *by Spikerko*
-[spikerko.org](https://spikerko.org)
