@@ -6,7 +6,7 @@
   "exports": {
     ".": {
       "import": "./src/esm/index.mjs",
-      "require": "./src/cjs/index.js"
+      "require": "./src/cjs/index.cjs"
     }
   },
   "scripts": {
