@@ -1,0 +1,35 @@
+{
+  "name": "njsargs",
+  "version": "1.0.0",
+  "description": "NJS Args helps you get paired arguments (\"--out-file file.txt\") and also single arguments (\"file.txt\") from the command line.",
+  "main": "./src/cjs/index.js",
+  "exports": {
+    ".": {
+      "import": "./src/esm/index.mjs",
+      "require": "./src/cjs/index.js"
+    }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpikeNew7774/njsargs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "arguments",
+    "args",
+    "javascript",
+    "commonjs",
+    "esm",
+    "es6",
+    "cjs"
+  ],
+  "author": "Spikerko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SpikeNew7774/njsargs/issues"
+  },
+  "homepage": "https://github.com/SpikeNew7774/njsargs#readme"
+}
