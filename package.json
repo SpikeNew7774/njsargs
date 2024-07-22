@@ -1,6 +1,6 @@
 {
   "name": "njsargs",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "NJS Args helps you get paired arguments (\"--out-file file.txt\") and also single arguments (\"file.txt\") from the command line.",
   "main": "./src/cjs/index.js",
   "exports": {

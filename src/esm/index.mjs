@@ -1,7 +1,3 @@
-// njsargs.js
-
-
-
 function parse() {
     const args = process.argv.slice(2);
     let parsedArgs = {};
